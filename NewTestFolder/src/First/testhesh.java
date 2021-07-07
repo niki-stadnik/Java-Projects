@@ -6,7 +6,7 @@ public class testhesh {
     public static void main(String[] args) {
 
         // Create a HashMap object called people
-        HashMap<String, Integer> people = new HashMap<String, Integer>();
+        HashMap<String, Integer> people = new HashMap<>();
 
 
         // Add keys and values (Name, Age)
@@ -21,5 +21,3 @@ public class testhesh {
         System.out.println(people.keySet());
     }
 }
-
-//test

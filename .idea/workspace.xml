@@ -30,7 +30,7 @@
     <property name="project.structure.side.proportion" value="0.19031143" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.EvenOrOdd">
+  <component name="RunManager" selected="Application.testhesh">
     <configuration name="Chisla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PovtoreniqSCikli.Chisla" />
       <module name="Baseics1" />
@@ -83,17 +83,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuelConsumption.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FuelConsumption_jar/FuelConsumption.jar" />
-      <method v="2" />
+    <configuration name="testhesh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First.testhesh" />
+      <module name="NewTestFolder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="First.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testhesh" />
         <item itemvalue="Application.EvenOrOdd" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReadJSON" />
         <item itemvalue="Application.Chisla" />
-        <item itemvalue="JAR Application.FuelConsumption.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +115,18 @@
       <option name="presentableId" value="Default" />
       <updated>1625686058622</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1625690606794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625690606795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
