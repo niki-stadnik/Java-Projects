@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Gosho</name>
+        <fnum>1234</fnum>
+    </student>
+    <student>
+        <name>Tosho</name>
+        <fnum>5</fnum>
+    </student>
+    <student>
+        <name>Rosho</name>
+        <fnum>888</fnum>
+    </student>
+    <student>
+        <name>ksho</name>
+        <fnum>888</fnum>
+    </student>
+</students>

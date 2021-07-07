@@ -1,0 +1,56 @@
+package socketi.KlientServer;
+
+// FirstServer.java
+// Very simple server that just
+// echoes whatever the client sends.
+
+import java.io.*;
+import java.net.*;
+
+public class FirstServer {
+    // Choose a port outside of the range 1-1024:
+    public static final int PORT = 8080;
+
+    public static void main(String[] args)
+            throws IOException {
+        ServerSocket s = null;
+        try {
+            s = new ServerSocket(PORT);
+            System.out.println("Started: " + s);
+        } catch (java.net.BindException ex) {
+            System.out.println("Port occupied");
+            System.exit(5);
+        }
+        try {
+            // Blocks until a connection occurs:
+            Socket socket = s.accept();
+            try {                                                                                //
+                System.out.println(
+                        "Connection accepted: " + socket);
+                BufferedReader in =
+                        new BufferedReader(
+                                new InputStreamReader(
+                                        socket.getInputStream()));
+                // Output is automatically flushed
+                // by PrintWriter:
+                PrintWriter out =
+                        new PrintWriter(
+                                new BufferedWriter(
+                                        new OutputStreamWriter(
+                                                socket.getOutputStream())), true);
+                while (true) {
+                    String str = in.readLine();
+                    if (str.equals("END")) break;
+                    System.out.println("Echoing: " + str);
+                    out.println(str);
+                }
+                // Always close the two sockets...
+            } finally {
+                System.out.println("closing...");
+                socket.close();
+            }
+        } finally {
+            s.close();
+        }
+    }
+}
