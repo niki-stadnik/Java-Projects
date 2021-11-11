@@ -1,10 +1,12 @@
 package Client;
 
-import java.net.*;
-import java.awt.*;
-import java.io.*;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.*;
+import java.net.InetAddress;
+import java.net.Socket;
 
 
 public class Client {
@@ -117,7 +119,7 @@ public class Client {
                 out.println("END");
                 System.out.println("closing...");
                 try {
-                    socket.close();
+                     socket.close();
                 } catch (Exception expt) {
                     System.out.println(expt);
                 }

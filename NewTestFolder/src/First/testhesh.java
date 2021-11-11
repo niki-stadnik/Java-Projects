@@ -19,5 +19,16 @@ public class testhesh {
         }
 
         System.out.println(people.keySet());
+        System.out.println(people.values());
+        System.out.println(people.get("Steve"));
+
+        //////////////////////////
+        HashMap<Integer, String> nums = new HashMap<>();
+
+        nums.put(1, "edno");
+        nums.put(2, "dve");
+        nums.put(3, "tri");
+        nums.put(4, "chetiri");
+        System.out.println(nums.get(1));
     }
 }
