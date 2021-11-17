@@ -10,29 +10,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba8e7bf-e9b0-4478-8c82-9812968d8697" name="Default Changelist" comment="test 2">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Chat_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scribejava_scribejava_apis_8_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scribejava_scribejava_core_8_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scribejava_scribejava_java8_8_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20210307.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADAX/ADAX.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADAX/src/adax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_netbeans_modules_java_j2seproject_copylibstask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/JavaApplication29rounding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/JavaApplication29rounding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/JavaApplication29rounding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/MyEvilPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/lib/nblibraries.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/src/javaapplication29rounding/JavaApplication29rounding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/TicTacToeCMD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/out/production/Java Inteli/tictactoe/TicTacToe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/src/sample/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/src/Client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/Client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewTestFolder/src/First/testhesh.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewTestFolder/src/First/testhesh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/First/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/First/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/First/klasche.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/First/klasche.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/First/testSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/First/testSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/First/testhesh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/First/testhesh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/sockettest/sockettest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/sockettest/sockettest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewTestFolder/sockettest/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewTestFolder/sockettest/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADAX/ADAX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADAX/src/adax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java APPS/Java APPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java APPS/Java APPS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFX APPS/src/TicTacToeAPP/TicTacToeAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX APPS/src/TicTacToeAPP/TicTacToeAPP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,26 +84,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/json-simple-1.1.jar" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17941387" />
-    <property name="project.structure.side.proportion" value="0.12468827" />
+    <property name="project.structure.side.proportion" value="0.30035758" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client.Client" />
-      <module name="Chat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicTacToeAPP">
     <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientDemo" />
       <module name="ADAX" />
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatements.EvenOrOdd" />
-      <module name="Baseics1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Crossroad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatements.*" />
+          <option name="PATTERN" value="sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="no.adax.client.api.adax" />
-      <module name="ADAX" />
+    <configuration name="Primer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumi.Primer" />
+      <module name="Java APPS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="no.adax.client.api.*" />
+          <option name="PATTERN" value="enumi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testhesh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First.testhesh" />
-      <module name="NewTestFolder" />
+    <configuration name="RemVehicleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.RemVehicleClient" />
+      <module name="Crossroad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="First.*" />
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeAPP.TicTacToeAPP" />
+      <module name="JavaFX APPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TicTacToeAPP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.TicTacToeAPP" />
+        <item itemvalue="Application.Primer" />
+        <item itemvalue="Application.RemVehicleClient" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ClientDemo" />
-        <item itemvalue="Application.adax" />
-        <item itemvalue="Application.testhesh" />
-        <item itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
   </component>

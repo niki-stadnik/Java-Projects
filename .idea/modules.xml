@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ADAX/ADAX.iml" filepath="$PROJECT_DIR$/../ADAX/ADAX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Baseics1/Baseics1.iml" filepath="$PROJECT_DIR$/Baseics1/Baseics1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarBridge/CarBridge.iml" filepath="$PROJECT_DIR$/CarBridge/CarBridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarBridgeNew/CarBridgeNew.iml" filepath="$PROJECT_DIR$/CarBridgeNew/CarBridgeNew.iml" />
@@ -11,11 +10,13 @@
       <module fileurl="file://$PROJECT_DIR$/FuelConsumption/FuelConsumption.iml" filepath="$PROJECT_DIR$/FuelConsumption/FuelConsumption.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java APPS/Java APPS.iml" filepath="$PROJECT_DIR$/Java APPS/Java APPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication29rounding/JavaApplication29rounding.iml" filepath="$PROJECT_DIR$/JavaApplication29rounding/JavaApplication29rounding.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX APPS/JavaFX APPS.iml" filepath="$PROJECT_DIR$/JavaFX APPS/JavaFX APPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBUJavaTest/NBUJavaTest.iml" filepath="$PROJECT_DIR$/NBUJavaTest/NBUJavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewTestFolder/NewTestFolder.iml" filepath="$PROJECT_DIR$/NewTestFolder/NewTestFolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectsViaSockets/ObjectsViaSockets.iml" filepath="$PROJECT_DIR$/ObjectsViaSockets/ObjectsViaSockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestExam/TestExam.iml" filepath="$PROJECT_DIR$/TestExam/TestExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" filepath="$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" />
     </modules>
   </component>
 </project>
