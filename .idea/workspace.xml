@@ -10,47 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba8e7bf-e9b0-4478-8c82-9812968d8697" name="Default Changelist" comment="test 2">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_netbeans_modules_java_j2seproject_copylibstask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/JavaApplication29rounding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/JavaApplication29rounding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/built-jar.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/JavaApplication29rounding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/MyEvilPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/build/classes/javaapplication29rounding/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/lib/nblibraries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/private/private.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/private/private.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApplication29rounding/src/javaapplication29rounding/JavaApplication29rounding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/TicTacToeCMD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/out/production/Java Inteli/tictactoe/TicTacToe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToeCMD/src/sample/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ADAX/ADAX.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ADAX/src/adax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java APPS/Java APPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java APPS/Java APPS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFX APPS/src/TicTacToeAPP/TicTacToeAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX APPS/src/TicTacToeAPP/TicTacToeAPP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/TicTacToeCMD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/out/production/Java Inteli/tictactoe/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/src/sample/TicTacToe.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TicTacToeCMD" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17941387" />
     <property name="project.structure.side.proportion" value="0.30035758" />
