@@ -12,19 +12,6 @@
     <list default="true" id="6ba8e7bf-e9b0-4478-8c82-9812968d8697" name="Default Changelist" comment="test 2">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Inteli/TicTacToeCMD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/TicTacToeCMD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/out/production/Java Inteli/tictactoe/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeCMD/src/sample/TicTacToe.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,24 +45,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TicTacToeCMD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WritePeopleToFile" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17941387" />
     <property name="project.structure.side.proportion" value="0.30035758" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
-  <component name="RunManager" selected="Application.TicTacToeAPP">
-    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClientDemo" />
-      <module name="ADAX" />
+  <component name="RunManager" selected="Application.tenis">
+    <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays1.Arrays1" />
+      <module name="Arrays1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Crossroad" />
+      <module name="FuelConsumption" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.*" />
@@ -99,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemVehicleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="client.RemVehicleClient" />
-      <module name="Crossroad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TicTacToeAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TicTacToeAPP.TicTacToeAPP" />
       <module name="JavaFX APPS" />
@@ -125,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tenis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tenis.tenis" />
+      <module name="JavaFX APPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tenis" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Arrays1" />
         <item itemvalue="Application.TicTacToeAPP" />
         <item itemvalue="Application.Primer" />
-        <item itemvalue="Application.RemVehicleClient" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ClientDemo" />
       </list>
     </recent_temporary>
   </component>

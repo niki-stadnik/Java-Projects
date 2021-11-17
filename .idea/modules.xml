@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays1/Arrays1.iml" filepath="$PROJECT_DIR$/Arrays1/Arrays1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Baseics1/Baseics1.iml" filepath="$PROJECT_DIR$/Baseics1/Baseics1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarBridge/CarBridge.iml" filepath="$PROJECT_DIR$/CarBridge/CarBridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarBridgeNew/CarBridgeNew.iml" filepath="$PROJECT_DIR$/CarBridgeNew/CarBridgeNew.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chat/Chat.iml" filepath="$PROJECT_DIR$/Chat/Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classsample/Classsample.iml" filepath="$PROJECT_DIR$/Classsample/Classsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crossroad/Crossroad.iml" filepath="$PROJECT_DIR$/Crossroad/Crossroad.iml" />
       <module fileurl="file://$PROJECT_DIR$/FuelConsumption/FuelConsumption.iml" filepath="$PROJECT_DIR$/FuelConsumption/FuelConsumption.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java APPS/Java APPS.iml" filepath="$PROJECT_DIR$/Java APPS/Java APPS.iml" />
@@ -15,7 +17,12 @@
       <module fileurl="file://$PROJECT_DIR$/NBUJavaTest/NBUJavaTest.iml" filepath="$PROJECT_DIR$/NBUJavaTest/NBUJavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewTestFolder/NewTestFolder.iml" filepath="$PROJECT_DIR$/NewTestFolder/NewTestFolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectsViaSockets/ObjectsViaSockets.iml" filepath="$PROJECT_DIR$/ObjectsViaSockets/ObjectsViaSockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadGroceriesFromFile/ReadGroceriesFromFile.iml" filepath="$PROJECT_DIR$/ReadGroceriesFromFile/ReadGroceriesFromFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadPeopleFromFile/ReadPeopleFromFile.iml" filepath="$PROJECT_DIR$/ReadPeopleFromFile/ReadPeopleFromFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestExam/TestExam.iml" filepath="$PROJECT_DIR$/TestExam/TestExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordsCounting/WordsCounting.iml" filepath="$PROJECT_DIR$/WordsCounting/WordsCounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WritePeopleToFile/WritePeopleToFile.iml" filepath="$PROJECT_DIR$/WritePeopleToFile/WritePeopleToFile.iml" />
     </modules>
   </component>
 </project>
